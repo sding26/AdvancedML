@@ -1,1 +1,1 @@
-# QMSS GR5074 PROJECTS IN ADVANCED MACHINE LEARNING
+# QMSS GR5074 Projects in Advanced Machine Learning
